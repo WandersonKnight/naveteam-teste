@@ -28,3 +28,10 @@ ________________________________________________________________________________
 Questão 10
 
 O console retornará os Objects ordenados mas retraidos, clique na seta para visualizar um a um.
+
+_____________________________________________________________________________________
+
+## Dificuldades
+
+Apenas uma observação.
+Postei todo o código da api na pasta "API", não sei se essa é a maneira correta pois é a primeira vez que lido com uma.
