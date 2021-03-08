@@ -1,1 +1,22 @@
 # naveteam-teste
+
+## Link do CodeSandbox
+
+----
+
+Questão 1
+
+Atribua uma string a cada variável (str1 e str2). O resultado será exibido no console
+
+Questão 4
+
+Digite o cep desejado dentro da função "cepGet"
+
+Questão 9
+
+O console retornará os Objects ordenados mas retraidos, clique na seta para visualizar um a um.
+
+Questão 10
+
+O console retornará os Objects ordenados mas retraidos, clique na seta para visualizar um a um.
+
