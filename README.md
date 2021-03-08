@@ -4,6 +4,8 @@
 
 ----
 
+## Como executar - Questões de lógica.
+
 Questão 1
 
 Atribua uma string a cada variável (str1 e str2). O resultado será exibido no console
