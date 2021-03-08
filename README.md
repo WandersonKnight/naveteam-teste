@@ -2,6 +2,8 @@
 
 ## Link do CodeSandbox
 
+https://codesandbox.io/s/teste-estagio-template-forked-g5082
+
 ----
 
 ## Como executar - Questões de lógica.
