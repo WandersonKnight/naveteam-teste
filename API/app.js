@@ -13,7 +13,7 @@ app.use("/store", rotaStore);
 app.use("/show", rotaShow);
 
 app.use((req, res, next) => {
-    const erro = new Error("N tem");
+    const erro = new Error("Erro de rota");
     erro.status(404);
     next(erro);
 })
